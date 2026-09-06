@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankit281346/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Ankit281346/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0202-happy-number) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
