@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankit281346/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankit281346/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
