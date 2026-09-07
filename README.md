@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit281346/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
