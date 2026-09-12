@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit281346/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit281346/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit281346/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit281346/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ankit281346/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankit281346/Leetcode-problems/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit281346/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit281346/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit281346/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
