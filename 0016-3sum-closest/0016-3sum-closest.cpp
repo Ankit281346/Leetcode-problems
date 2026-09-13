@@ -7,29 +7,24 @@ public:
         int closest = nums[0] + nums[1] + nums[2];
 
         for (int i = 0; i < n - 2; i++) {
-            int left = i + 1;
-            int right = n - 1;
+            int j = i + 1;
+            int k = n - 1;
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
 
-                // If this sum is closer, update answer
                 if (abs(sum - target) < abs(closest - target)) {
                     closest = sum;
                 }
 
-                // Exact match: cannot get closer
-                if (sum == target) {
-                    return sum;
-                }
-
-                // Need a bigger sum
                 if (sum < target) {
-                    left++;
+                    j++;
                 }
-                // Need a smaller sum
+                else if (sum > target) {
+                    k--;
+                }
                 else {
-                    right--;
+                    return sum;
                 }
             }
         }
