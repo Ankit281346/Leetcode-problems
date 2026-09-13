@@ -1,58 +1,51 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        vector<vector<int>> ans;
         int n = nums.size();
+        vector<vector<int>> quadruplets;
 
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n - 3; i++) {
+        for (int a = 0; a < n - 3; a++) {
 
-            if (i > 0 && nums[i] == nums[i - 1])
+            if (a > 0 && nums[a] == nums[a - 1])
                 continue;
 
-            for (int j = i + 1; j < n - 2; j++) {
+            for (int b = a + 1; b < n - 2; b++) {
 
-                if (j > i + 1 && nums[j] == nums[j - 1])
+                if (b > a + 1 && nums[b] == nums[b - 1])
                     continue;
 
-                int left = j + 1;
-                int right = n - 1;
+                int c = b + 1;
+                int d = n - 1;
 
-                while (left < right) {
-
-                    long long sum = (long long)nums[i] 
-                                  + nums[j] 
-                                  + nums[left] 
-                                  + nums[right];
+                while (c < d) {
+                    long long sum = (long long)nums[a] + nums[b] + nums[c] + nums[d];
 
                     if (sum == target) {
-                        ans.push_back({
-                            nums[i],
-                            nums[j],
-                            nums[left],
-                            nums[right]
+                        quadruplets.push_back({
+                            nums[a], nums[b], nums[c], nums[d]
                         });
 
-                        while (left < right && nums[left] == nums[left + 1])
-                            left++;
+                        c++;
+                        d--;
 
-                        while (left < right && nums[right] == nums[right - 1])
-                            right--;
+                        while (c < d && nums[c] == nums[c - 1])
+                            c++;
 
-                        left++;
-                        right--;
+                        while (c < d && nums[d] == nums[d + 1])
+                            d--;
                     }
                     else if (sum < target) {
-                        left++;
+                        c++;
                     }
                     else {
-                        right--;
+                        d--;
                     }
                 }
             }
         }
 
-        return ans;
+        return quadruplets;
     }
 };
