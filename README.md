@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/Ankit281346/Leetcode-problems/tree/master/0836-rectangle-overlap) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankit281346/Leetcode-problems/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ankit281346/Leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
