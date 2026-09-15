@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit281346/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit281346/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ankit281346/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankit281346/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankit281346/Leetcode-problems/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
