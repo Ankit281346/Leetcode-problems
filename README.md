@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit281346/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0844-backspace-string-compare](https://github.com/Ankit281346/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankit281346/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit281346/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit281346/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/Ankit281346/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit281346/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankit281346/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Ankit281346/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankit281346/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ankit281346/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
